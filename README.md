@@ -12,28 +12,26 @@
    
  ####  • Programming languages: 
 <div>
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> 
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg">
-  
+  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> 
+  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>  
    
 #### • Databases:
 <div>  
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
 </div>    
 
  #### • Other technologies:
 <div>  
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Gui-C" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
 </div> 
    
  #### • Social media😉  
