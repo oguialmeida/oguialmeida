@@ -6,48 +6,48 @@
 
 <div>
    <a href="https://github.com/oguialmeida">
-   <img align="left" height="30%" width="40%" style="margin: 0.5%" src="https://github-readme-stats.vercel.app/api?username=oguialmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-   <img align="center" height="30%" width="30.38%" style="margin: 0.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguialmeida&layout=compact&langs_count=16&theme=tokyonight"/>
+   <img height="30%" width="40%" style="margin: 0.5%" src="https://github-readme-stats.vercel.app/api?username=oguialmeida&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/> 
+   <img height="30%" width="30.38%" style="margin: 0.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguialmeida&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <hr>
 
  ####  • Programming languages: 
-<div>
-  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
-  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> 
-  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<div style="text-align:left; align-items:center; margin: 0.5%">
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/> 
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 </div>  
    
 #### • Databases:
-<div>  
-  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+<div style="text-align:left; align-items:center; margin: 0.5%">  
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"/>
 </div>    
 
  #### • Other technologies:
-<div>  
-  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+<div style="text-align:left; align-items:center; margin: 0.5%">  
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
 </div> 
 
 <hr>
    
  #### • Social media😉  
   
-<div>
+<div style="text-align:left; align-items:center; margin: 0.5%">
    <a href="https://www.instagram.com/guilherme_g0/" target="_blank">
       <img height="40" width="180" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-      style="border-radius: 10px" target="_blank">
+      style="border-radius:15px" target="_blank"/>
    </a>
 
    <a href="https://www.linkedin.com/in/guilherme-almeida-23743421a/" target="_blank">
       <img height="40" width="180" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      style="border-radius: 10px" target="_blank">
+      style="border-radius:15px" target="_blank"/>
    </a>
 </div>  
