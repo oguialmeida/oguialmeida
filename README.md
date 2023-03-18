@@ -4,16 +4,15 @@
 - 🧢 23 years old
 - 📫 How to contact me: guilherme.almeida6875@gmail.com 
 
-<div>
-   <a href="https://github.com/oguialmeida">
-   <img height="30%" width="40%" style="margin: 0.5%" src="https://github-readme-stats.vercel.app/api?username=oguialmeida&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/> 
-   <img height="30%" width="30.38%" style="margin: 0.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguialmeida&layout=compact&langs_count=16&theme=tokyonight"/>
+<div style="text-align:left; align-items:center;">
+   <img height="120em" style="margin: 0.5%" src="https://github-readme-stats.vercel.app/api?username=oguialmeida&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+   <img height="120em" style="margin: 0.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguialmeida&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <hr>
 
  ####  • Programming languages: 
-<div style="text-align:left; align-items:center; margin: 0.5%">
+<div style="text-align:left; align-items:center;>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/> 
@@ -21,7 +20,7 @@
 </div>  
    
 #### • Databases:
-<div style="text-align:left; align-items:center; margin: 0.5%">  
+<div style="text-align:left; align-items:center;">  
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
@@ -29,7 +28,7 @@
 </div>    
 
  #### • Other technologies:
-<div style="text-align:left; align-items:center; margin: 0.5%">  
+<div style="text-align:left; align-items:center;>  
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
