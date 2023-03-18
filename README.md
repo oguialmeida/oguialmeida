@@ -6,10 +6,12 @@
 
 <div>
    <a href="https://github.com/oguialmeida">
-   <img align="left" height="160" width="350" src="https://github-readme-stats.vercel.app/api?username=oguialmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-   <img align="center" height="160" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguialmeida&layout=compact&langs_count=16&theme=tokyonight"/>
+   <img align="left" height="30%" width="40%" style="margin: 0.5%" src="https://github-readme-stats.vercel.app/api?username=oguialmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+   <img align="center" height="30%" width="30.38%" style="margin: 0.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguialmeida&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-   
+
+<hr>
+
  ####  • Programming languages: 
 <div>
   <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
@@ -33,10 +35,19 @@
   <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
 </div> 
+
+<hr>
    
  #### • Social media😉  
   
-<div>  
-   <a href="https://www.instagram.com/guilherme_g0/" target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/guilherme-almeida-23743421a/" target="_blank"><img height="40" width="180" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+   <a href="https://www.instagram.com/guilherme_g0/" target="_blank">
+      <img height="40" width="180" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      style="border-radius: 10px" target="_blank">
+   </a>
+
+   <a href="https://www.linkedin.com/in/guilherme-almeida-23743421a/" target="_blank">
+      <img height="40" width="180" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      style="border-radius: 10px" target="_blank">
+   </a>
 </div>  
