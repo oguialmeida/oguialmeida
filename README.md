@@ -30,7 +30,7 @@
 </div>    
 
  #### • Other technologies:
-<div style="text-align:left; align-items:center;>  
+<div style="text-align:left; align-items:center;">  
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
