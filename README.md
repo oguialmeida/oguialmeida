@@ -66,4 +66,5 @@
 
 <hr>
 #### • Snake Game🐍  
+<br>
 ![Snake animation](https://github.com/oguialmeida/oguialmeida/blob/output/github-contribution-grid-snake.svg)
