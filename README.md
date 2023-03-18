@@ -2,7 +2,7 @@
 
 - 🎓 Software Engineering brazilian student at [Universidade Evangélica de Goiás](https://www4.unievangelica.edu.br/)
 - 🧢 23 years old
-- 📫 How to contact me: guilherme.almeida6875@gmail.com 
+- 📫 How to contact me: [guilherme.almeida6875@gmail.com](http://guilherme.almeida6875@gmail.com/) 
 
 <div style="text-align:left; align-items:center;">
    <img height="120em" style="margin: 0.5%" src="https://github-readme-stats.vercel.app/api?username=oguialmeida&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
@@ -12,7 +12,8 @@
 <hr>
 
  ####  • Programming languages: 
-<div style="text-align:left; align-items:center;>
+<div style="text-align:left; align-items:center;">
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/> 
@@ -25,6 +26,7 @@
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"/>
 </div>    
 
  #### • Other technologies:
@@ -33,6 +35,15 @@
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
   <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/>
+  <img alt="Gui-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
 </div> 
 
 <hr>
