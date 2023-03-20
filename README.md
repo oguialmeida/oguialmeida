@@ -1,4 +1,4 @@
-### Hey there!! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Hello+world!)](https://git.io/typing-svg)
 
 - 🎓 Software Engineering brazilian student at [Universidade Evangélica de Goiás](https://www4.unievangelica.edu.br/)
 - 🧢 23 years old
