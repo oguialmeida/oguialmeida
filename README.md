@@ -5,8 +5,8 @@
 - 📫 How to contact me: [guilherme.almeida6875@gmail.com](http://guilherme.almeida6875@gmail.com/) 
 
 <div style="text-align:left; align-items:center;">
-   <img height="149em" style="margin: 1.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oguialmeida&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-   <img height="149em" style="margin: 1.5%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oguialmeida&layout=compact&langs_count=16&theme=tokyonight"/>
+   <img height="150em" style="margin: 1.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oguialmeida&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+   <img height="150em" style="margin: 1.5%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oguialmeida&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <hr>
