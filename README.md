@@ -20,6 +20,7 @@
   src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
   <img alt="Gui-C" title="Python" height="50" width="50" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/> 
   <img alt="Gui-C" title="JavaScript" height="50" width="50" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img alt="Gui-C" title="TypeScript" height="50" width="50" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
 </div>  
    
 #### • Databases:
