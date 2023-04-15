@@ -39,6 +39,7 @@
   <img alt="Gui-C" title="NodeJS Interpreter" height="50" width="50" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
   <img alt="Gui-C" title="Spring Framework" height="50" width="50" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/>
   <img alt="Gui-C" title="Flask Framework" height="50" width="50" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"/>
+   <img alt="Gui-C" title="Electron Framework" height="50" width="50" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"/>
   <img alt="Gui-C" title="NPM Package Manager" height="50" width="50" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
   <img alt="Gui-C" title="Yarn Package Manager" height="50" width="50" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"/>
   <img alt="Gui-C" title="Heroku Cloud Plataform" height="50" width="50" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"/>
