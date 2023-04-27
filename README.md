@@ -2,7 +2,7 @@
 
 - 🎓 Software Engineering student at [Universidade Evangélica de Goiás](https://www4.unievangelica.edu.br/)
 - 🧢 23 years old
-- 📫 How to reach me: guilherme.almeida6875@gmail.com
+- 📫 How to contact me: guilherme.almeida6875@gmail.com
 
 <div align="center">
   <h3> 🚀 My stats <h3>
