@@ -51,8 +51,4 @@
       <img height="40" width="180" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"/>
    </a>
-
-  <hr>
-  <h3>🐍 Snake Game</h3>
-  <img src="https://github.com/oguialmeida/oguialmeida/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
