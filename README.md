@@ -6,8 +6,8 @@
 
 <div align="center">
   <h3> 🚀 My stats <h3>
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oguialmeida&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oguialmeida&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="139em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oguialmeida&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+  <img height="139em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oguialmeida&layout=compact&langs_count=16&theme=tokyonight"/>
   <hr>
   <h4>💻 Languages</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="40" width="40" title="C"/>
