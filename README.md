@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Hello+world!)](https://git.io/typing-svg)
 
-- 🎓 Software Engineering student at [Universidade Evangélica de Goiás](https://www4.unievangelica.edu.br/)
+- 🎓 Bachelor's Degree in Software Engineering by [Universidade Evangélica de Goiás](https://www4.unievangelica.edu.br/)
 - 🧢 24 years old
 - 📫 How to contact me: guilherme.almeida6875@gmail.com
 
