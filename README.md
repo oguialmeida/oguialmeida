@@ -2,7 +2,6 @@
 
 - 🎓 Bachelor's Degree in Software Engineering by [Universidade Evangélica de Goiás](https://www4.unievangelica.edu.br/)
 - 📚 Postgraduate Degree in Distributed Systems Architecture in progress by [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
-- 🧢 25 years old 
 - 📫 How to contact me: guilherme.almeida6875@gmail.com
 
 <div align="center">
