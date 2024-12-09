@@ -39,16 +39,4 @@
   <img alt="Gui-C" title="NGINX Server" height="40" width="40" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"/>
   <img alt="Gui-C" title="Docker Container Service" height="40" width="40" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/>
   <img alt="Gui-C" title="Linux"  height="40" width="40" style="margin: 1%" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
-  
-  <hr>
-  <h3> 🤝🏽 Social media </h3>
-   <a href="https://www.instagram.com/guilherme_g0/" target="_blank">
-      <img height="40" width="180" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-      style="border-radius:15px" target="_blank"/>
-   </a>
-
-   <a href="https://www.linkedin.com/in/guilherme-almeida-23743421a/" target="_blank">
-      <img height="40" width="180" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"/>
-   </a>
 </div>
