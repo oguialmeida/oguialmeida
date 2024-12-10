@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Hello+world!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Hey+guys!+What's+up?)](https://git.io/typing-svg)
 
 - 🎓 Bachelor's Degree in Software Engineering by [Universidade Evangélica de Goiás](https://www4.unievangelica.edu.br/)
 - 📚 Postgraduate Degree in Distributed Systems Architecture in progress by [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
